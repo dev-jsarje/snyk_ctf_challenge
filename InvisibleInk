@@ -1,1 +1,13 @@
+Challenge
 
+Two files provided: - 
+- index.js
+- packages.json
+
+VS Code - as editot
+Postman - for running the POST and GET commands
+curl - to interact with the website
+
+Challenge Site - invisible-ink.c.ctf-snyk.io
+
+Solution - 
